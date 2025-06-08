@@ -10,4 +10,4 @@ Programming languages I know:
 
 Take a look at some of my featured projects:
 
-* Telegram AI Moderator Bot at https://github.com/nospamgang/tg-bot
+* Telegram AI Moderator Bot at [https://github.com/loncothad/tg-ai-antispam-bot](https://github.com/loncothad/tg-ai-antispam-bot)
