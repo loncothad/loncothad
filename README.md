@@ -10,4 +10,5 @@ Programming languages I know:
 
 Take a look at some of my featured projects:
 
-* Telegram AI Moderator Bot at [https://github.com/loncothad/tg-ai-antispam-bot](https://github.com/loncothad/tg-ai-antispam-bot)
+* SOCKS protocol implementation at [socker](https://github.com/loncothad/socker);
+* Telegram AI Moderator Bot at [tg-ai-antispam-bot](https://github.com/loncothad/tg-ai-antispam-bot).
